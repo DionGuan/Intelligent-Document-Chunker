@@ -1,4 +1,4 @@
-# # 🧩 Intelligent Document Chunker
+# 🧩 Intelligent Document Chunker
 
 A lightweight knowledge base component for intelligent document segmentation using **semantic chunking techniques**.  
 It supports both PDF and TXT inputs, performing structure-aware segmentation to enhance downstream knowledge retrieval and embedding quality.
