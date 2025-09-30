@@ -34,7 +34,7 @@ It integrates robust text extraction (via `OCR like MinerU`) with semantic embed
 ### 1️⃣ Clone or Download the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/DionGuan/Intelligent-Document-Chunker.git
 # or simply download and extract the project archive
 ```
 
