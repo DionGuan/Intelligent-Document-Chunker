@@ -125,10 +125,10 @@ Chunked Output Files (.txt)
 ---
 
 ## ⭐ Todo List
-- [x] OCR recognition optimization based on MinerU has been completed
+- [√] OCR recognition optimization based on MinerU has been completed
 - [ ] Implement more standardized preprocessing for `Markdown` and `JSON` files  
 - [ ] Develop more detailed sliding window strategies tailored to the recognition of different document types.
-- [ ] Integrate powerful Qwen3-embedding and Qwen3-reranker models to build a complete Retrieval-Augmented Generation (RAG) system.
+- [√] Integrate powerful Qwen3-embedding and Qwen3-reranker models to build a complete Retrieval-Augmented Generation (RAG) system.
 - [ ] Integrate the system into an open-source AI platform.
 
 ---
